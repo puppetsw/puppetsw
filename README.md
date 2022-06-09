@@ -2,11 +2,9 @@
 
 My name is Scott Whitney and I'm a hobbyist developer based in Australia.
 
+I work full time as an engineer and developer and like to work on personal projects in my spare time. I'm currently trying to get more involded in open source projects and pushing PRs where I can find something suitable to my skills.
+
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
-
-#### 🔧 Technologies & Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
