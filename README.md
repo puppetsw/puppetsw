@@ -2,7 +2,7 @@
 
 My name is Scott Whitney and I'm a hobbyist developer based in Australia.
 
-I work full time as an engineer and developer and like to work on personal projects in my spare time. I'm currently trying to get more involded in open source projects and pushing PRs where I can find something suitable to my skills.
+I work full time as a civil engineer and software developer and like to work on personal projects in my spare time. I'm currently trying to get more involded in open source projects and pushing PRs where I can find something suitable to my skills.
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
