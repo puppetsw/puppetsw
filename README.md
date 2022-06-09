@@ -6,7 +6,9 @@ I work full time as a civil engineer and software developer and like to work on 
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
-[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **puppetsw/puppetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
