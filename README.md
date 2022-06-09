@@ -6,7 +6,7 @@ My name is Scott Whitney and I'm a hobbyist developer based in Australia.
 
 #### 🔧 Technologies & Tools
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
