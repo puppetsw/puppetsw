@@ -10,7 +10,7 @@ I work as a civil draftsman and software developer and like to work on personal 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Scott's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puppetsw&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Scott's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puppetsw&theme=dark&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **puppetsw/puppetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
