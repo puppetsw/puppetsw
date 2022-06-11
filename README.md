@@ -6,8 +6,6 @@ I work as a civil draftsman and software developer and like to work on personal 
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pupptz)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Scott's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puppetsw&theme=dark&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
