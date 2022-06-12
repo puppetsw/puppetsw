@@ -11,6 +11,11 @@ I work as a civil draftsman and software developer and like to work on personal 
 [![Scott's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puppetsw&theme=dark&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **puppetsw/puppetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
