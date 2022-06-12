@@ -88,8 +88,6 @@ Java                     1 repo              ██░░░░░░░░░�
  Last Updated on 12/06/2022 04:31:33 UTC
 <!--END_SECTION:waka-->
 
-[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **puppetsw/puppetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
