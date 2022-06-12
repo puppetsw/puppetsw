@@ -6,12 +6,6 @@ I work as a civil draftsman and software developer and like to work on personal 
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Scott's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=puppetsw&theme=dark&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -94,6 +88,7 @@ Java                     1 repo              ██░░░░░░░░░�
  Last Updated on 12/06/2022 04:31:33 UTC
 <!--END_SECTION:waka-->
 
+[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **puppetsw/puppetsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
