@@ -6,6 +6,8 @@ I work as a civil draftsman and software developer and like to what little spare
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
+[![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetsw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
