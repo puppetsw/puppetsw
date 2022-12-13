@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Scott and I'm a hobbyist developer based in Australia.
+My name is Scott and I'm a hobbyist developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/puppetsw?label=Follow&style=social)](https://github.com/puppetsw?tab=followers)
 
