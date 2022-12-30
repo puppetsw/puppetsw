@@ -34,10 +34,10 @@ Sunday       32 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-C#                       1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
